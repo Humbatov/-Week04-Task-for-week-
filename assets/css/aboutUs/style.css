@@ -217,6 +217,8 @@
     line-height: 35px;
     text-transform: uppercase;
     color: #a5a5a5; }
+    #footer #copyright span {
+      z-index: 5; }
     #footer #copyright:after {
       content: "";
       height: 0px;

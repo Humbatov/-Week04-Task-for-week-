@@ -7,6 +7,9 @@
           font-size: 14px;
           line-height: 35px;
           text-transform: uppercase;
+          span{
+            z-index: 5;
+          }
           color:lighten(#8B8B8B,10%);
           &:after{
             content: "";
